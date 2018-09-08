@@ -1,0 +1,275 @@
+
+
+Téléchargement du 08/09/2018
+
+
+M.OU MME TONIC ANDRE               
+CCHQ       14726595001
+Solde au 07/09/2018 +5 498,32 Euros (EUR)
+
+Cartes : -2 542,87 Euros (EUR)
+
+Date          : 06/09
+Libellé       : NCNUMERICABLE
+                PRELEVMNT
+                93634201-S095G9P8H
+                FR05ZZZ422161
+                OVL551611190000I
+Débit    (EUR): 30,09
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : 00000673366 ECHEANCE    05/09/18
+                REMBOURSEMENT DE PRET
+Débit    (EUR): 636,60
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : 00000673406 ECHEANCE    05/09/18
+                REMBOURSEMENT DE PRET
+Débit    (EUR): 1 346,78
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                Loyer Appartement Asnieres MADAM
+                M TONIC
+                Loyer Appartement Asnieres
+Crédit   (EUR): 1 050,00
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 1 1 4 1F18306
+                FR69ZZZ639647
+                2004590591104
+Débit    (EUR): 19,97
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 1 1 3 1F18306
+                FR69ZZZ639647
+                2004590591103
+Débit    (EUR): 25,84
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 2 2 3 1F18306
+                FR69ZZZ639647
+                2004590592203
+Débit    (EUR): 13,47
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 2 2 2 1F18306
+                FR69ZZZ639647
+                2004590592202
+Débit    (EUR): 6,87
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 2 2 4 1F18306
+                FR69ZZZ639647
+                2004590592204
+Débit    (EUR): 10,35
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BPSIS
+                PRELEVMNT
+                SURAVE 1001 200459059 1 1 2 1F18306
+                FR69ZZZ639647
+                2004590591102
+Débit    (EUR): 13,19
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : eni gas  power France SA
+                PRELEVMNT
+                eni gas and power France facture Ga
+                z 200002398641
+                FR15RET502491
+                RUMWPA1004751701
+Débit    (EUR): 143,88
++--------------------------------------------------------------------+
+Date          : 04/09
+Libellé       : CANALSAT - Groupe CANAL PLUS
+                PRELEVMNT
+                PRLV CANAL Abonnement mensuel
+                FR90ZZZ397351
+                14239444CGAACSA1423944400201
+Débit    (EUR): 47,90
++--------------------------------------------------------------------+
+Date          : 03/09
+Libellé       : VIREMENT EMIS
+                WEB M ANDRE TONIC OU MME Assuran
+                Assurances IARD
+                03/09/2018
+Débit    (EUR): 1 200,00
++--------------------------------------------------------------------+
+Date          : 03/09
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000028071918-1040029
+Débit    (EUR): 75,20
++--------------------------------------------------------------------+
+Date          : 02/09
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                Taxes foncieres TONIC ANDRE
+                Taxes foncieres
+Crédit   (EUR): 950,00
++--------------------------------------------------------------------+
+Date          : 31/08
+Libellé       : URSSAF RHONE ALPES - CNCESU CE
+                PRELEVMNT
+                PRELEVEMENT CNCESU M. TONIC ANDRE d
+                u 31/08/2018
+                FR55CSU143065
+                042077CEB20120909A2181914
+Débit    (EUR): 156,88
++--------------------------------------------------------------------+
+Date          : 31/08
+Libellé       : DEPENSES CARTE AU 16/08/2018
+                PRELEVEMENT CARTE
+Débit    (EUR): 1 422,59
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : VIREMENT EMIS
+                WEB M ANDRE TONIC OU MME Credit
+                Credit AVZ et ENSP
+                29/08/2018
+Débit    (EUR): 3 000,00
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : CREDIT AGRICOLE SA 001/18326/201
+                VIREMENT EN VOTRE FAVEUR
+                VIREMENT   AOUT     2018
+                001/18326/2018-08-23
+Crédit   (EUR): 12 360,96
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : VIREMENT EMIS
+                WEB TONIC ANDRE Virement depuis
+                Virement depuis Ma Banque
+                29/08/2018
+Débit    (EUR): 5 000,00
++--------------------------------------------------------------------+
+Date          : 27/08
+Libellé       : MONTELIMAR       25/08 11H48
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 160,00
++--------------------------------------------------------------------+
+Date          : 24/08
+Libellé       : GAB MEYNOT       23/08 11H47
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 160,00
++--------------------------------------------------------------------+
+Date          : 23/08
+Libellé       : Bouygues Telecom
+                PRELEVMNT
+                Lignes mobiles
+                FR35ZZZ418323
+                8CL5S
+Débit    (EUR): 20,96
++--------------------------------------------------------------------+
+Date          : 20/08
+Libellé       : MONTELIMAR       19/08 08H34
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 160,00
++--------------------------------------------------------------------+
+Date          : 17/08
+Libellé       : VIREMENT EMIS
+                WEB TONIC ANDRE Renflouement
+                Renflouement
+                17/08/2018
+Débit    (EUR): 5 000,00
++--------------------------------------------------------------------+
+Date          : 17/08
+Libellé       : VAUCRESSON GAB 1 16/08 11H19
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+
+
+MR ANDRE TONIC      
+VISA PREMIER DD  4533 32xx xxxx xx03
+Date          : 19/08
+Libellé       : SODIMOND INTERMARCH
+                .
+Débit    (EUR): 232,06
++--------------------------------------------------------------------+
+Date          : 21/08
+Libellé       : LE SARRAZIN
+                .
+Débit    (EUR): 80,70
++--------------------------------------------------------------------+
+Date          : 21/08
+Libellé       : FNAC.COM
+                .
+Débit    (EUR): 16,38
++--------------------------------------------------------------------+
+Date          : 22/08
+Libellé       : ARNAUD SOUBEYRAN
+                .
+Débit    (EUR): 69,16
++--------------------------------------------------------------------+
+Date          : 22/08
+Libellé       : SODIMOND INTERMARCH
+                .
+Débit    (EUR): 94,69
++--------------------------------------------------------------------+
+Date          : 22/08
+Libellé       : DAC SODIMON
+                .
+Débit    (EUR): 37,09
++--------------------------------------------------------------------+
+Date          : 24/08
+Libellé       : LE SAINT MART
+                .
+Débit    (EUR): 172,00
++--------------------------------------------------------------------+
+Date          : 25/08
+Libellé       : FNAC DIRECT
+                .
+Débit    (EUR): 9,90
++--------------------------------------------------------------------+
+Date          : 27/08
+Libellé       : FNAC DIRECT
+                .
+Débit    (EUR): 11,11
++--------------------------------------------------------------------+
+Date          : 27/08
+Libellé       : SODIMOND INTERMARCH
+                .
+Débit    (EUR): 84,10
++--------------------------------------------------------------------+
+Date          : 27/08
+Libellé       : FNAC DIRECT
+                .
+Débit    (EUR): 18,50
++--------------------------------------------------------------------+
+Date          : 30/08
+Libellé       : ARNAUD SOUBEYRAN
+                .
+Débit    (EUR): 68,80
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : CAFE L EPHEMERE
+                .
+Débit    (EUR): 56,90
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : MONOP'
+                .
+Débit    (EUR): 59,79
++--------------------------------------------------------------------+
+Date          : 06/09
+Libellé       : PETITS PLATS
+                .
+Débit    (EUR): 69,00
++--------------------------------------------------------------------+
+
+
+
+
